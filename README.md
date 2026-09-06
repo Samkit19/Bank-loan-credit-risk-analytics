@@ -78,7 +78,7 @@ bank-loan-credit-risk-analytics/
 
 ## A few findings
 
-Default-plus-NPA rate climbs from 0.78% in the top credit band to 31.6% in the bottom one, a 40x spread. Sub-Prime customers default at 19.2%, more than three times the Regular segment. Two-Wheeler and Personal loans carry the largest share of Critical-risk exposure by loan type.
+Default-plus-NPA rate climbs from 0.78% in the top credit band to 31.6% in the bottom one, a 40x spread. Sub-Prime customers default at 19.2%, more than double the Regular segment. Two-Wheeler and Personal loans carry the largest share of Critical-risk exposure by loan type.
 
 ## How to use it
 
